@@ -1,5 +1,4 @@
 # Fashion MNIST Flow Matching
-![alt text](image.png)
 A simple implementation of Flow Matching for generative modeling on the Fashion-MNIST dataset, inspired by the MIT diffusion course.
 
 ## Overview
@@ -46,6 +45,7 @@ jupyter notebook  # Open the main notebook
 ```
 
 ## Results
+![alt text](image.png)
 
 The model learns to generate fashion item images by starting from random noise and following the learned flow field to produce realistic-looking clothing items.
 
